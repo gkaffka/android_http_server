@@ -65,7 +65,7 @@ For example, you will find the `CallLogUseCaseTest.kt` in the `src/test/java/com
 
 To execute the tests you can use the command:
 `./gradlew check`
-<BR>Another alternative is to run directly from teh Android Studio by using the gutter icon.
+<BR>Another alternative is to run directly from Android Studio by using the gutter icon.
 
 ## Project structure
 The project is divided into 4 main layers:
