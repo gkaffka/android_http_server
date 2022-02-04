@@ -73,7 +73,7 @@ The project is divided into 4 main layers:
 - `domain` holds the business logic and the data representations that are used across the application. Here, for example, you will find all the domain models and use cases for this application
 - `data` holds the repositories, providing an interface with the data layer
 - `ui` contains the classes responsible for providing an interface between the user and the application business logic. Here you will find the activities, view models, adapters etc.
-= `di` contains dependency injection related files / classes
+- `di` contains dependency injection related files / classes
 
 ## Dependencies
 - [ktor](https://ktor.io/) - Ktor is an asynchronous framework for creating microservices, web applications, and more. It’s fun, free, and open source.
